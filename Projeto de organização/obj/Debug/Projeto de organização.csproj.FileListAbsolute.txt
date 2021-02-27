@@ -1,0 +1,13 @@
+C:\Users\55479\Desktop\Projeto\Projeto de organização\bin\Debug\Projeto de organização.exe.config
+C:\Users\55479\Desktop\Projeto\Projeto de organização\bin\Debug\Projeto de organização.exe
+C:\Users\55479\Desktop\Projeto\Projeto de organização\bin\Debug\Projeto de organização.pdb
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto de organização.csprojAssemblyReference.cache
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto_de_organização.Properties.Resources.resources
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto de organização.csproj.GenerateResource.cache
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto de organização.csproj.CoreCompileInputs.cache
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto de organização.exe
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto de organização.pdb
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto_de_organização.Form1.resources
+C:\Users\55479\Desktop\Projeto\Projeto de organização\obj\Debug\Projeto_de_organização.Pessoas.resources
+C:\Users\55479\Desktop\Projeto\Projeto de organização\bin\Debug\DataBase\Database.mdf
+C:\Users\55479\Desktop\Projeto\Projeto de organização\bin\Debug\DataBase\Database_log.ldf
